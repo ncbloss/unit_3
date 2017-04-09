@@ -1,0 +1,12 @@
+h1, h3 {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+h3 {
+	font-size: 36px;
+}
+p{
+	font-family: "Courier New", monospace;
+}
